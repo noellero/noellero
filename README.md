@@ -1,3 +1,4 @@
 - My name is Noelle Robertson. Welcome to my profile!
 - I am currently studying Cybersecurity, beginning with an AAS at a local institution. I plan to continue my education with a BS in either Computer Science or Network Engineering/Security. From there, I hope to attain a MSc in Cybersecurity and Information Assurance. 
 - As of now, I am in the process of learning the basics. Besides my studies, I am working on a side-scroller game in my down time. I have an academic background in Visual Arts and am excited to combine my interests of programming and the arts.
+- I can be reached at noellero@proton.me for any inquiries.
